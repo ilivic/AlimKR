@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AlimBDModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CategoryProduct">
+    <Key>
+      <PropertyRef Name="id_CategoryProduct" />
+    </Key>
+    <Property Name="id_CategoryProduct" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Product" Relationship="AlimBDModel.FK_Product_CategoryProduct" FromRole="CategoryProduct" ToRole="Product" />
+  </EntityType>
+  <EntityType Name="Client">
+    <Key>
+      <PropertyRef Name="id_client" />
+    </Key>
+    <Property Name="id_client" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FullName" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Login" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Sales" Relationship="Self.FK_Sales_Client" FromRole="Client" ToRole="Sales" />
+  </EntityType>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="id_Employee" />
+    </Key>
+    <Property Name="id_Employee" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FullName" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Code" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="IsActive" Type="Boolean" Nullable="false" />
+    <Property Name="DataStart" Type="DateTime" Nullable="false" Precision="0" />
+    <NavigationProperty Name="Sales" Relationship="Self.FK_Sales_Employee" FromRole="Employee" ToRole="Sales" />
+    <NavigationProperty Name="Product" Relationship="AlimBDModel.FK_Product_Employee" FromRole="Employee" ToRole="Product" />
+  </EntityType>
+  <EntityType Name="Sales">
+    <Key>
+      <PropertyRef Name="id_sale" />
+    </Key>
+    <Property Name="id_sale" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Product_id" Type="Int32" Nullable="false" />
+    <Property Name="Count" Type="Int32" Nullable="false" />
+    <Property Name="Cost" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <Property Name="Client_id" Type="Int32" Nullable="false" />
+    <Property Name="Employe_id" Type="Int32" />
+    <Property Name="DateSale" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="Client" Relationship="Self.FK_Sales_Client" FromRole="Sales" ToRole="Client" />
+    <NavigationProperty Name="Employee" Relationship="Self.FK_Sales_Employee" FromRole="Sales" ToRole="Employee" />
+    <NavigationProperty Name="Product" Relationship="AlimBDModel.FK_Sales_Product" FromRole="Sales" ToRole="Product" />
+  </EntityType>
+  <Association Name="FK_Sales_Client">
+    <End Role="Client" Type="Self.Client" Multiplicity="1" />
+    <End Role="Sales" Type="Self.Sales" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Client">
+        <PropertyRef Name="id_client" />
+      </Principal>
+      <Dependent Role="Sales">
+        <PropertyRef Name="Client_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Sales_Employee">
+    <End Role="Employee" Type="Self.Employee" Multiplicity="0..1" />
+    <End Role="Sales" Type="Self.Sales" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employee">
+        <PropertyRef Name="id_Employee" />
+      </Principal>
+      <Dependent Role="Sales">
+        <PropertyRef Name="Employe_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="AlimBDEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CategoryProduct" EntityType="Self.CategoryProduct" />
+    <EntitySet Name="Client" EntityType="Self.Client" />
+    <EntitySet Name="Employee" EntityType="Self.Employee" />
+    <EntitySet Name="Sales" EntityType="Self.Sales" />
+    <AssociationSet Name="FK_Sales_Client" Association="Self.FK_Sales_Client">
+      <End Role="Client" EntitySet="Client" />
+      <End Role="Sales" EntitySet="Sales" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Sales_Employee" Association="Self.FK_Sales_Employee">
+      <End Role="Employee" EntitySet="Employee" />
+      <End Role="Sales" EntitySet="Sales" />
+    </AssociationSet>
+    <EntitySet Name="Product" EntityType="AlimBDModel.Product" />
+    <AssociationSet Name="FK_Product_CategoryProduct" Association="AlimBDModel.FK_Product_CategoryProduct">
+      <End Role="CategoryProduct" EntitySet="CategoryProduct" />
+      <End Role="Product" EntitySet="Product" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Product_Employee" Association="AlimBDModel.FK_Product_Employee">
+      <End Role="Employee" EntitySet="Employee" />
+      <End Role="Product" EntitySet="Product" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Sales_Product" Association="AlimBDModel.FK_Sales_Product">
+      <End Role="Product" EntitySet="Product" />
+      <End Role="Sales" EntitySet="Sales" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="id_product" />
+    </Key>
+    <Property Name="id_product" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Description" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="Count" Type="Int32" Nullable="false" />
+    <Property Name="Price" Type="Decimal" Nullable="false" Precision="19" Scale="4" />
+    <Property Name="CategoryProduct_id" Type="Int32" Nullable="false" />
+    <Property Name="Employe_id" Type="Int32" Nullable="false" />
+    <Property Name="IsActive" Type="Boolean" />
+    <NavigationProperty Name="CategoryProduct" Relationship="AlimBDModel.FK_Product_CategoryProduct" FromRole="Product" ToRole="CategoryProduct" />
+    <NavigationProperty Name="Employee" Relationship="AlimBDModel.FK_Product_Employee" FromRole="Product" ToRole="Employee" />
+    <NavigationProperty Name="Sales" Relationship="AlimBDModel.FK_Sales_Product" FromRole="Product" ToRole="Sales" />
+  </EntityType>
+  <Association Name="FK_Product_CategoryProduct">
+    <End Type="AlimBDModel.CategoryProduct" Role="CategoryProduct" Multiplicity="1" />
+    <End Type="AlimBDModel.Product" Role="Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CategoryProduct">
+        <PropertyRef Name="id_CategoryProduct" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="CategoryProduct_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Product_Employee">
+    <End Type="AlimBDModel.Employee" Role="Employee" Multiplicity="1" />
+    <End Type="AlimBDModel.Product" Role="Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employee">
+        <PropertyRef Name="id_Employee" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="Employe_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Sales_Product">
+    <End Type="AlimBDModel.Product" Role="Product" Multiplicity="1" />
+    <End Type="AlimBDModel.Sales" Role="Sales" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="id_product" />
+      </Principal>
+      <Dependent Role="Sales">
+        <PropertyRef Name="Product_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

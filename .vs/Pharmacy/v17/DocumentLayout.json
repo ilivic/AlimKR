@@ -1,0 +1,516 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|c:\\users\\ilivic\\desktop\\pharmacy\\pharmacy\\pagesapp\\pagespotsale.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pagesapp\\pagespotsale.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|c:\\users\\ilivic\\desktop\\pharmacy\\pharmacy\\pagesapp\\pagemenuemp.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pagesapp\\pagemenuemp.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|c:\\users\\ilivic\\desktop\\pharmacy\\pharmacy\\pagesapp\\pagemenuemp.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pagesapp\\pagemenuemp.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|c:\\users\\ilivic\\desktop\\pharmacy\\pharmacy\\pagesapp\\pagespotsale.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pagesapp\\pagespotsale.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|c:\\users\\ilivic\\desktop\\pharmacy\\pharmacy\\pagesapp\\pageaddcat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pagesapp\\pageaddcat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|c:\\users\\ilivic\\desktop\\pharmacy\\pharmacy\\pagesapp\\pageshowby.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pagesapp\\pageshowby.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|c:\\users\\ilivic\\desktop\\pharmacy\\pharmacy\\pagesapp\\pagebydrug.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pagesapp\\pagebydrug.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|c:\\users\\ilivic\\desktop\\pharmacy\\pharmacy\\pagesapp\\pagebydrug.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pagesapp\\pagebydrug.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|c:\\users\\ilivic\\desktop\\pharmacy\\pharmacy\\pagesapp\\pagemenucl.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pagesapp\\pagemenucl.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|c:\\users\\ilivic\\desktop\\pharmacy\\pharmacy\\pagesapp\\pageshowby.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pagesapp\\pageshowby.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|c:\\users\\ilivic\\desktop\\pharmacy\\pharmacy\\pagesapp\\pagemenucl.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pagesapp\\pagemenucl.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|c:\\users\\ilivic\\desktop\\pharmacy\\pharmacy\\pagesapp\\pageshowdrug.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pagesapp\\pageshowdrug.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|c:\\users\\ilivic\\desktop\\pharmacy\\pharmacy\\pagesapp\\pageshowdrug.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pagesapp\\pageshowdrug.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|c:\\users\\ilivic\\desktop\\pharmacy\\pharmacy\\pagesapp\\pageshowemp.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pagesapp\\pageshowemp.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|c:\\users\\ilivic\\desktop\\pharmacy\\pharmacy\\pagesapp\\pageshowemp.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pagesapp\\pageshowemp.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|c:\\users\\ilivic\\desktop\\pharmacy\\pharmacy\\pagesapp\\pageaddemp.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pagesapp\\pageaddemp.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|c:\\users\\ilivic\\desktop\\pharmacy\\pharmacy\\pagesapp\\pageaddemp.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pagesapp\\pageaddemp.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|c:\\users\\ilivic\\desktop\\pharmacy\\pharmacy\\pagesapp\\pageadddrug.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pagesapp\\pageadddrug.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|c:\\users\\ilivic\\desktop\\pharmacy\\pharmacy\\pagesapp\\pageadddrug.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pagesapp\\pageadddrug.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|c:\\users\\ilivic\\desktop\\pharmacy\\pharmacy\\pagesapp\\pageshowcat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pagesapp\\pageshowcat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|c:\\users\\ilivic\\desktop\\pharmacy\\pharmacy\\pagesapp\\pageaddcat.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pagesapp\\pageaddcat.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|c:\\users\\ilivic\\desktop\\pharmacy\\pharmacy\\pagesapp\\pageshowcat.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pagesapp\\pageshowcat.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|c:\\users\\ilivic\\desktop\\pharmacy\\pharmacy\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|c:\\users\\ilivic\\desktop\\pharmacy\\pharmacy\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|c:\\users\\ilivic\\desktop\\pharmacy\\pharmacy\\pagesapp\\pagelogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pagesapp\\pagelogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|c:\\users\\ilivic\\desktop\\pharmacy\\pharmacy\\classapp\\classcurrent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\classapp\\classcurrent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|c:\\users\\ilivic\\desktop\\pharmacy\\pharmacy\\pagesapp\\pagelogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pagesapp\\pagelogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|c:\\users\\ilivic\\desktop\\pharmacy\\pharmacy\\pagesapp\\pagereg.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pagesapp\\pagereg.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|c:\\users\\ilivic\\desktop\\pharmacy\\pharmacy\\pagesapp\\pagereg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pagesapp\\pagereg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|c:\\users\\ilivic\\desktop\\pharmacy\\pharmacy\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718B3814-6C7C-4E34-B64A-FD92D48F56BF}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PagesApp\\PageSpotSale.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageSpotSale.xaml.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\PagesApp\\PageSpotSale.xaml.cs",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageSpotSale.xaml.cs",
+              "RelativeToolTip": "Pharmacy\\PagesApp\\PageSpotSale.xaml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA5wDcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T18:15:11.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PageSpotSale.xaml",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageSpotSale.xaml",
+              "RelativeDocumentMoniker": "Pharmacy\\PagesApp\\PageSpotSale.xaml",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageSpotSale.xaml",
+              "RelativeToolTip": "Pharmacy\\PagesApp\\PageSpotSale.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-30T18:10:26.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PageShowBy.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageShowBy.xaml.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\PagesApp\\PageShowBy.xaml.cs",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageShowBy.xaml.cs",
+              "RelativeToolTip": "Pharmacy\\PagesApp\\PageShowBy.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAACSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T18:05:14.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PageShowBy.xaml",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageShowBy.xaml",
+              "RelativeDocumentMoniker": "Pharmacy\\PagesApp\\PageShowBy.xaml",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageShowBy.xaml",
+              "RelativeToolTip": "Pharmacy\\PagesApp\\PageShowBy.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-30T18:02:40.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PageByDrug.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageByDrug.xaml.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\PagesApp\\PageByDrug.xaml.cs",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageByDrug.xaml.cs",
+              "RelativeToolTip": "Pharmacy\\PagesApp\\PageByDrug.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAwwCgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:53:27.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PageByDrug.xaml",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageByDrug.xaml",
+              "RelativeDocumentMoniker": "Pharmacy\\PagesApp\\PageByDrug.xaml",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageByDrug.xaml",
+              "RelativeToolTip": "Pharmacy\\PagesApp\\PageByDrug.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-30T17:51:34.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PagesApp\\PageShowEmp.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageShowEmp.xaml.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\PagesApp\\PageShowEmp.xaml.cs",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageShowEmp.xaml.cs",
+              "RelativeToolTip": "Pharmacy\\PagesApp\\PageShowEmp.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvyIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:43:44.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PagesApp\\PageAddEmp.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageAddEmp.xaml.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\PagesApp\\PageAddEmp.xaml.cs",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageAddEmp.xaml.cs",
+              "RelativeToolTip": "Pharmacy\\PagesApp\\PageAddEmp.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA6wCsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:36:25.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PageShowEmp.xaml",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageShowEmp.xaml",
+              "RelativeDocumentMoniker": "Pharmacy\\PagesApp\\PageShowEmp.xaml",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageShowEmp.xaml",
+              "RelativeToolTip": "Pharmacy\\PagesApp\\PageShowEmp.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-30T17:32:04.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PageAddEmp.xaml",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageAddEmp.xaml",
+              "RelativeDocumentMoniker": "Pharmacy\\PagesApp\\PageAddEmp.xaml",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageAddEmp.xaml",
+              "RelativeToolTip": "Pharmacy\\PagesApp\\PageAddEmp.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-30T17:31:51.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PagesApp\\PageShowDrug.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageShowDrug.xaml.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\PagesApp\\PageShowDrug.xaml.cs",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageShowDrug.xaml.cs",
+              "RelativeToolTip": "Pharmacy\\PagesApp\\PageShowDrug.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAUwBkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:07:56.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PageShowDrug.xaml",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageShowDrug.xaml",
+              "RelativeDocumentMoniker": "Pharmacy\\PagesApp\\PageShowDrug.xaml",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageShowDrug.xaml",
+              "RelativeToolTip": "Pharmacy\\PagesApp\\PageShowDrug.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-30T16:58:29.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PagesApp\\PageAddDrug.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageAddDrug.xaml.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\PagesApp\\PageAddDrug.xaml.cs",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageAddDrug.xaml.cs",
+              "RelativeToolTip": "Pharmacy\\PagesApp\\PageAddDrug.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAqwCwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:52:51.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PageShowCat.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageShowCat.xaml.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\PagesApp\\PageShowCat.xaml.cs",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageShowCat.xaml.cs",
+              "RelativeToolTip": "Pharmacy\\PagesApp\\PageShowCat.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwB4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:40:14.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PageShowCat.xaml",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageShowCat.xaml",
+              "RelativeDocumentMoniker": "Pharmacy\\PagesApp\\PageShowCat.xaml",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageShowCat.xaml",
+              "RelativeToolTip": "Pharmacy\\PagesApp\\PageShowCat.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-30T16:38:11.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PageAddCat.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageAddCat.xaml.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\PagesApp\\PageAddCat.xaml.cs",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageAddCat.xaml.cs",
+              "RelativeToolTip": "Pharmacy\\PagesApp\\PageAddCat.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAUwCcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:33:35.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PageAddCat.xaml",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageAddCat.xaml",
+              "RelativeDocumentMoniker": "Pharmacy\\PagesApp\\PageAddCat.xaml",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageAddCat.xaml",
+              "RelativeToolTip": "Pharmacy\\PagesApp\\PageAddCat.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-30T16:30:37.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PageAddDrug.xaml",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageAddDrug.xaml",
+              "RelativeDocumentMoniker": "Pharmacy\\PagesApp\\PageAddDrug.xaml",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageAddDrug.xaml",
+              "RelativeToolTip": "Pharmacy\\PagesApp\\PageAddDrug.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-30T16:27:52.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PageMenuEmp.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageMenuEmp.xaml.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\PagesApp\\PageMenuEmp.xaml.cs",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageMenuEmp.xaml.cs",
+              "RelativeToolTip": "Pharmacy\\PagesApp\\PageMenuEmp.xaml.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAqwEMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:10:59.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ClassCurrent.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\ClassApp\\ClassCurrent.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\ClassApp\\ClassCurrent.cs",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\ClassApp\\ClassCurrent.cs",
+              "RelativeToolTip": "Pharmacy\\ClassApp\\ClassCurrent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:08:58.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PagesApp\\PageMenuCL.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageMenuCL.xaml.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\PagesApp\\PageMenuCL.xaml.cs",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageMenuCL.xaml.cs",
+              "RelativeToolTip": "Pharmacy\\PagesApp\\PageMenuCL.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA1wCsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:07:05.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PageMenuEmp.xaml",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageMenuEmp.xaml",
+              "RelativeDocumentMoniker": "Pharmacy\\PagesApp\\PageMenuEmp.xaml",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageMenuEmp.xaml",
+              "RelativeToolTip": "Pharmacy\\PagesApp\\PageMenuEmp.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-30T16:02:36.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PageMenuCL.xaml",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageMenuCL.xaml",
+              "RelativeDocumentMoniker": "Pharmacy\\PagesApp\\PageMenuCL.xaml",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageMenuCL.xaml",
+              "RelativeToolTip": "Pharmacy\\PagesApp\\PageMenuCL.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-30T16:02:20.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PagesApp\\PageReg.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageReg.xaml.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\PagesApp\\PageReg.xaml.cs",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageReg.xaml.cs",
+              "RelativeToolTip": "Pharmacy\\PagesApp\\PageReg.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwC4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:53:25.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PageReg.xaml",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageReg.xaml",
+              "RelativeDocumentMoniker": "Pharmacy\\PagesApp\\PageReg.xaml",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageReg.xaml",
+              "RelativeToolTip": "Pharmacy\\PagesApp\\PageReg.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-30T15:53:01.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PagesApp\\PageLogin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageLogin.xaml.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\PagesApp\\PageLogin.xaml.cs",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageLogin.xaml.cs",
+              "RelativeToolTip": "Pharmacy\\PagesApp\\PageLogin.xaml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAkwD8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:52:12.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PageLogin.xaml",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageLogin.xaml",
+              "RelativeDocumentMoniker": "Pharmacy\\PagesApp\\PageLogin.xaml",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\PagesApp\\PageLogin.xaml",
+              "RelativeToolTip": "Pharmacy\\PagesApp\\PageLogin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-30T15:44:02.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\App.xaml.cs",
+              "RelativeToolTip": "Pharmacy\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:39:08.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Pharmacy\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\MainWindow.xaml",
+              "RelativeToolTip": "Pharmacy\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-30T15:34:53.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\Pharmacy\\Pharmacy\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Pharmacy\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:34:52.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

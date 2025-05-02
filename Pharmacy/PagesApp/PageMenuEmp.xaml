@@ -1,0 +1,47 @@
+﻿<Page x:Class="Pharmacy.PagesApp.PageMenuEmp"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Pharmacy.PagesApp"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="PageMenuEmp">
+    <Page.Resources>
+        <Style TargetType="Button">
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Margin" Value="5"/>
+        </Style>
+        <Style TargetType="Label">
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Margin" Value="3"/>
+        </Style>
+
+    </Page.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+        <StackPanel>
+            <Label Content="{Binding FullName}"/>
+            <Label Content="{Binding DataStart}"/>
+            <Label Content="Работник"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1">
+            <Button Content="Выдать заказ" Click="ClickSpot"/>
+            <Button Content="Добавить препарат" Click="ClickAddDrug"/>
+            <Button Content="Править препарат" Click="ClickShowDrug"/>
+            <Button Content="Добавить категорию" Click="ClickAddCat"/>
+            <Button Content="Править категорию" Click="ClickShowCat"/>
+            <Button Content="Добавить сотрудника" Click="ClickAddEmp"/>
+            <Button Content="Отстранить сотрудника" Click="ClickShowEmp"/>
+            <Button Content="выход" Click="ClickExit"/>
+        </StackPanel>
+        <Frame Grid.Column="1" Grid.RowSpan="2" x:Name="SapFrame" NavigationUIVisibility="Hidden"/>
+    </Grid>
+</Page>

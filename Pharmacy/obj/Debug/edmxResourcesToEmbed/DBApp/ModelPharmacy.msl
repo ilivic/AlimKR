@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище AlimBDModelContainer" CdmEntityContainer="AlimBDEntities">
+    <EntitySetMapping Name="CategoryProduct">
+      <EntityTypeMapping TypeName="AlimBDModel.CategoryProduct">
+        <MappingFragment StoreEntitySet="CategoryProduct">
+          <ScalarProperty Name="id_CategoryProduct" ColumnName="id_CategoryProduct" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Client">
+      <EntityTypeMapping TypeName="AlimBDModel.Client">
+        <MappingFragment StoreEntitySet="Client">
+          <ScalarProperty Name="id_client" ColumnName="id_client" />
+          <ScalarProperty Name="FullName" ColumnName="FullName" />
+          <ScalarProperty Name="Login" ColumnName="Login" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Employee">
+      <EntityTypeMapping TypeName="AlimBDModel.Employee">
+        <MappingFragment StoreEntitySet="Employee">
+          <ScalarProperty Name="id_Employee" ColumnName="id_Employee" />
+          <ScalarProperty Name="FullName" ColumnName="FullName" />
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="DataStart" ColumnName="DataStart" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sales">
+      <EntityTypeMapping TypeName="AlimBDModel.Sales">
+        <MappingFragment StoreEntitySet="Sales">
+          <ScalarProperty Name="id_sale" ColumnName="id_sale" />
+          <ScalarProperty Name="Product_id" ColumnName="Product_id" />
+          <ScalarProperty Name="Count" ColumnName="Count" />
+          <ScalarProperty Name="Cost" ColumnName="Cost" />
+          <ScalarProperty Name="Client_id" ColumnName="Client_id" />
+          <ScalarProperty Name="Employe_id" ColumnName="Employe_id" />
+          <ScalarProperty Name="DateSale" ColumnName="DateSale" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Product">
+      <EntityTypeMapping TypeName="AlimBDModel.Product">
+        <MappingFragment StoreEntitySet="Product">
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="Employe_id" ColumnName="Employe_id" />
+          <ScalarProperty Name="CategoryProduct_id" ColumnName="CategoryProduct_id" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Count" ColumnName="Count" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="id_product" ColumnName="id_product" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
